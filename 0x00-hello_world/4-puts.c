@@ -1,5 +1,5 @@
 #!/bin/bash
-#iclude<studio.h>
+#iclude<string.h>
 int main()
 {
 puts("with proper grammar, but the outcome is a piece of art\n");
