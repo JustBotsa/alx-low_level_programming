@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
-*  main - random number
+/**
+*  main - Positive anything is better than negative nothing
 *
 *  Return: 0
 **/
