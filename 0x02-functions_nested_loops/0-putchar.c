@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<main.h>
 
 /**
 * *  main - Positive anything is better than negative nothing
